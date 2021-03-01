@@ -9,3 +9,5 @@ Cavicchia Alessandra: Dipartimento di grafica e animazioni, game dedigner, sound
 Marchisio Raffaele: Sviluppatore, game designer, level designer.
 
 Piumatto Gabriele: Sviluppatore, game designer, level desiner.
+
+Useremo unity come game engine.
