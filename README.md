@@ -12,4 +12,5 @@ Piumatto Gabriele: Sviluppatore, game designer, level desiner.
 
 Useremo unity come game engine.
 
-Il videogioco sarà un misto tra un rhythm game e un platform
+Il videogioco sarà un rhythm game con ambientazione futuristica e pixel art
+
