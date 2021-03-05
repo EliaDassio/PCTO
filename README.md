@@ -1,6 +1,3 @@
-# PCTO
-A repository for the PCTO project
-
 ![image](https://github.com/EliaDassio/PCTO/blob/main/assets_and_other_drawings/logo133x100.png)
 
 Useremo unity come game engine; il videogioco sarà un rhythm game con ambientazione futuristica e pixel art. Questo progetto viene usato per il lavoro su associazione simbolo/tasto.
