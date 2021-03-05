@@ -15,6 +15,7 @@ Piumatto Gabriele: Sviluppatore, game designer, level designer.
 
 ![image](https://github.com/EliaDassio/PCTO/blob/main/assets_and_other_drawings/IdleNomo/000.png)
 
+
 Questo è nomo, il nostro protagonista.
 
 
@@ -23,11 +24,11 @@ Questo è nomo, il nostro protagonista.
 
 Questo è un ipotetico esempio di come saranno visualizzate le frecce sullo schermo.
 
+
 ![image](https://github.com/EliaDassio/PCTO/blob/main/assets_and_other_drawings/direction_sheet_test.png)
 
-Questa è una semi-demo per i movimenti 
 
-https://scratch.mit.edu/projects/496341671/
+Questa è una semi-demo per i movimenti 
 
 
 ![image](https://github.com/EliaDassio/PCTO/blob/main/assets_and_other_drawings/titlescreen/000.png)
