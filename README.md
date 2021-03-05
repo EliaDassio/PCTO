@@ -20,3 +20,6 @@ Piumatto Gabriele: Sviluppatore, game designer, level desiner.
 
 
 ![image](https://github.com/EliaDassio/PCTO/blob/main/assets_and_other_drawings/titlescreen/000.png)
+
+
+ci teniamo inoltre a ringraziare l'IIT, l'Associazione Italiana Sclerosi Multipla, l'Università di Genova e Wondertech per l'opportunità di sperimentare questo aspetto della programmazione da noi fin ora mai sperimentata e per l'opportunità di arricchire la nostra conoscienza
