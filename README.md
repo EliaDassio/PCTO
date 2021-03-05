@@ -1,11 +1,9 @@
 # PCTO
 A repository for the PCTO project
 
-Useremo unity come game engine.
+Useremo unity come game engine; il videogioco sarà un rhythm game con ambientazione futuristica e pixel art. Questo progetto viene usato per il lavoro su associazione simbolo/tasto.
 
-Il videogioco sarà un rhythm game con ambientazione futuristica e pixel art. 
-
-Questo progetto viene usato per il lavoro su associazione simbolo/tasto
+I rispettivi ruoli all'interno del gruppo sono:
 
 Dassio Elia: Team leader, sviluppatore, game designer, sound designer.
 
