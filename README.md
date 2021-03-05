@@ -19,11 +19,19 @@ Piumatto Gabriele: Sviluppatore, game designer, level designer.
 
 ![image](https://github.com/EliaDassio/PCTO/blob/main/assets_and_other_drawings/IdleNomo/000.png)
 
+Questo è nomo, il nostro protagonista.
+
 
 ![image](https://github.com/EliaDassio/PCTO/blob/main/assets_and_other_drawings/arrows_example.png)
 
 
+Questo è un ipotetico esempio di come saranno visualizzate le frecce sullo schermo.
+
+
 ![image](https://github.com/EliaDassio/PCTO/blob/main/assets_and_other_drawings/titlescreen/000.png)
+
+
+Questo sarà la schermata iniziale del gioco a cui seguirà una selezione delle canzoni su cui stiamo lavorando.
 
 
 Ci teniamo inoltre a ringraziare l'IIT, l'Associazione Italiana Sclerosi Multipla, l'Università di Genova e Wondertech per l'opportunità di sperimentare questo aspetto della programmazione da noi fin ora mai provata e per l'opportunità di arricchire la nostra conoscenza.
