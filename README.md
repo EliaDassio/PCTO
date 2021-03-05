@@ -20,6 +20,9 @@ Piumatto Gabriele: Sviluppatore, game designer, level designer.
 ![image](https://github.com/EliaDassio/PCTO/blob/main/assets_and_other_drawings/IdleNomo/000.png)
 
 
+![image](https://github.com/EliaDassio/PCTO/blob/main/assets_and_other_drawings/arrows_example.png)
+
+
 ![image](https://github.com/EliaDassio/PCTO/blob/main/assets_and_other_drawings/titlescreen/000.png)
 
 
