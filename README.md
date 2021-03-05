@@ -12,3 +12,11 @@ Marchisio Raffaele: Sviluppatore, game designer, level designer.
 
 Piumatto Gabriele: Sviluppatore, game designer, level desiner.
 
+
+![image](https://github.com/EliaDassio/PCTO/blob/main/assets_and_other_drawings/logo133x100.png)
+
+
+![image](https://github.com/EliaDassio/PCTO/blob/main/assets_and_other_drawings/IdleNomo/000.png)
+
+
+![image](https://github.com/EliaDassio/PCTO/blob/main/assets_and_other_drawings/titlescreen/000.png)
