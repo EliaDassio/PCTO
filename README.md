@@ -12,4 +12,3 @@ Marchisio Raffaele: Sviluppatore, game designer, level designer.
 
 Piumatto Gabriele: Sviluppatore, game designer, level desiner.
 
-Useremo unity come game engine.
