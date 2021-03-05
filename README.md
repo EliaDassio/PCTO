@@ -28,7 +28,10 @@ Questo è un ipotetico esempio di come saranno visualizzate le frecce sullo sche
 ![image](https://github.com/EliaDassio/PCTO/blob/main/assets_and_other_drawings/direction_sheet_test.png)
 
 
-Questa è una semi-demo per i movimenti 
+Questa è una semi-demo per i movimenti completa con un asimulazione fatta con scratch.
+
+
+https://scratch.mit.edu/projects/497125833/
 
 
 ![image](https://github.com/EliaDassio/PCTO/blob/main/assets_and_other_drawings/titlescreen/000.png)
